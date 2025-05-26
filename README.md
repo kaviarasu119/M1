@@ -10,8 +10,11 @@ Write a C program to read 3 characters one by one and print the characters in a 
 4.	End the program.
 
 ## PROGRAM:
+![image](https://github.com/user-attachments/assets/7bf93ef7-ede9-4d86-808e-0f1244174ac8)
 
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/aa8f278e-c960-40ec-bcb3-479415e99143)
+
 
 
 
@@ -46,8 +49,12 @@ Write a C program to read A values and check whether A is positive number or not
 6.End the program.
 
 # PROGRAM:
+![image](https://github.com/user-attachments/assets/bad3b9a6-ba09-410b-b055-8d41a68e37f1)
+
 
 # OUTPUT:
+![image](https://github.com/user-attachments/assets/ac15a614-250b-4590-9fde-4c830e0cb43f)
+
 
 
 
@@ -80,8 +87,12 @@ Write a program to find minimum between two fraction numbers using conditional o
 7.	Print the minimum value.
 
 ## PROGRAM:
+![image](https://github.com/user-attachments/assets/e6ceb602-ff30-4906-822f-3b51da21c386)
+
 
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/9dcc3099-a8ff-490c-8c41-af398da777f2)
+
 
 
 
@@ -111,8 +122,12 @@ Write a C program to check whether the input value is equal to 1 using simple if
 6.	End the program.
 
 ## PROGRAM:
+![image](https://github.com/user-attachments/assets/e4da8625-7ad1-421b-9927-b1a587a5a87f)
+
 
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/fbf195a1-9b05-4267-ab9d-565f0d2b34a9)
+
 
 
 
@@ -147,8 +162,12 @@ c.	Else if percentage >= 36: Print “Division = Pass”
 9.	Else: Print “Division = Fail”
 10.	End
 ## PROGRAM:
+![image](https://github.com/user-attachments/assets/1df82e50-2697-4228-93b3-dc1c68f1e190)
+
 
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/cc6412b1-e0a1-4c4b-849b-da2f3fa68496)
+
 
 ## RESULT:
 The program successfully takes three subject marks, calculates the total and percentage, and correctly determines the division based on predefined grading logic.
